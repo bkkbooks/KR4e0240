@@ -1399,6 +1399,7 @@ markers:
   - {type: line-break, offset: 5400, content: '', id: KR4e0240_WYG_010-17b02}
   - {type: substitution, offset: 5410, original: 禄, replacement: 祿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20754}}
   - {type: punctuation, offset: 5412, content: (, id: KR4e0240_krp_010-bkkpn1}
+  - {type: voice, offset: 5412, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 5413, content: /, id: KR4e0240_krp_010-bkkpn2}
   - {type: punctuation, offset: 5413, content: ), id: KR4e0240_krp_010-bkkpn3}
   - {type: 'kr:newline', offset: 5421, content: '
@@ -2970,4 +2971,4 @@ markers:
 
       ', id: KR4e0240_krp_010-bkkkrnewl647}
   back: []
-hash: sha256:01eb0a6c9d10e6c64fc468e67def0077068398e0e077c46f3eca66ca7392621d
+hash: sha256:7c6319c1797f10c2af930e753213510012e8c6a91318fbef0a1367f81a351e95

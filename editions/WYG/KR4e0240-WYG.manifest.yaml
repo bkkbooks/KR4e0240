@@ -58,7 +58,7 @@ assets:
   - {seq: 38, filename: KR4e0240_038-WYG.yaml, hash: 'sha256:6b5e10502562636a7591ec47b4042feccd4f57e2e1463b20dd36fda86b91069b'}
   - {seq: 39, filename: KR4e0240_039-WYG.yaml, hash: 'sha256:14f36e769a3ac7b2bd8e76898683125e2ec22b2bbc4e0b3cf8d6734abd4649dd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4e0240_000-WYG.markers.yaml, hash: 'sha256:dac74dbd0070f13267db99c2721aa97ba91bf3b5536f6c2884661ffcc0ece483'}
+  - {seq: 0, role: markers, filename: assets/KR4e0240_000-WYG.markers.yaml, hash: 'sha256:3119d48907e1403d047fb51137b2b356921acfd1bd9680b68ed11281a09de4c5'}
   - {seq: 1, role: markers, filename: assets/KR4e0240_001-WYG.markers.yaml, hash: 'sha256:3b5705700eb63620fe1e5377555bd0b73d003c09186f2506e98e2cd68e882d68'}
   - {seq: 2, role: markers, filename: assets/KR4e0240_002-WYG.markers.yaml, hash: 'sha256:c5c69318d8c0e57610c5fbfba0d2ded80b44c634e2cf4d0b5727b699b16ac831'}
   - {seq: 3, role: markers, filename: assets/KR4e0240_003-WYG.markers.yaml, hash: 'sha256:14e5db2f929e95db3b1d144af97089cf12c4c0c984b03421d5b74fd2d331f0aa'}
@@ -68,17 +68,17 @@ assets:
   - {seq: 7, role: markers, filename: assets/KR4e0240_007-WYG.markers.yaml, hash: 'sha256:8dc54c4cf7ac3197cfaaa124679032981d1934b1302575d141128699a2d111c5'}
   - {seq: 8, role: markers, filename: assets/KR4e0240_008-WYG.markers.yaml, hash: 'sha256:9406379a9810d9b7cea89b495e43b6e49e817d8917497f89c46e5c9e6f51beae'}
   - {seq: 9, role: markers, filename: assets/KR4e0240_009-WYG.markers.yaml, hash: 'sha256:99969d29a91105315ebb21bcc08da41f3c059fc6ec918e7a2d00f672d463a7c9'}
-  - {seq: 10, role: markers, filename: assets/KR4e0240_010-WYG.markers.yaml, hash: 'sha256:ecb177d490e1f81bd82af6ada0f8aab1f91ef8626aeaa9eae49f5a85fb24b728'}
+  - {seq: 10, role: markers, filename: assets/KR4e0240_010-WYG.markers.yaml, hash: 'sha256:40b22961ecabe6e899d168c3ce97dc4103a1c38e2c7e18d456bbd63d16d8f8a2'}
   - {seq: 11, role: markers, filename: assets/KR4e0240_011-WYG.markers.yaml, hash: 'sha256:976b81be6d4df867c2ec0ed203e8ea185802ed8961046f58e5366d658600cc0e'}
   - {seq: 12, role: markers, filename: assets/KR4e0240_012-WYG.markers.yaml, hash: 'sha256:be515e5e8ebd08398e815d80d7dd460058dc93f3724184c3e11f9352616a846f'}
   - {seq: 13, role: markers, filename: assets/KR4e0240_013-WYG.markers.yaml, hash: 'sha256:f5124db9c0d036c1570b454ac0ee07dd248206421e6c1cc24f73b7c00fcf6690'}
   - {seq: 14, role: markers, filename: assets/KR4e0240_014-WYG.markers.yaml, hash: 'sha256:382055dbbd15d33eda006ec11e87a75dd7fe9b08d768f20f368035ec6c9fc338'}
-  - {seq: 15, role: markers, filename: assets/KR4e0240_015-WYG.markers.yaml, hash: 'sha256:c4bca3ea7ad3ac6a0a57ec8ff2952c3f4728a122311663a02733c5984820c047'}
+  - {seq: 15, role: markers, filename: assets/KR4e0240_015-WYG.markers.yaml, hash: 'sha256:978abe324a602c9a09653bcb2bca4a2f412c759cb498e5b6118b2c7b1fa9e85f'}
   - {seq: 16, role: markers, filename: assets/KR4e0240_016-WYG.markers.yaml, hash: 'sha256:325ecad6bf2f4ab952d2538e12847dac283537233e4f33d87cacd2e82e44479d'}
-  - {seq: 17, role: markers, filename: assets/KR4e0240_017-WYG.markers.yaml, hash: 'sha256:b4348b752ffb664471210a153aa4452bce31ad9d352e59b1c9cb5992b0eaa5a6'}
-  - {seq: 18, role: markers, filename: assets/KR4e0240_018-WYG.markers.yaml, hash: 'sha256:99771ff21dce52709b536f88f63c1095b8d7444c6e2ea63613b694111e8d96b4'}
-  - {seq: 19, role: markers, filename: assets/KR4e0240_019-WYG.markers.yaml, hash: 'sha256:99df4d77dd89a70d9f99ccbee908716399b2a7891dc36afe767012e29b235bf4'}
-  - {seq: 20, role: markers, filename: assets/KR4e0240_020-WYG.markers.yaml, hash: 'sha256:4fef341ad2ce0e56eb7adc08c8d2a881dea915d91fc0fc8df337989bdd6a9cf6'}
+  - {seq: 17, role: markers, filename: assets/KR4e0240_017-WYG.markers.yaml, hash: 'sha256:0a695ea698f4fe00cf467260384ef199039cca874e9e76b05fbbb8704eb2b3b5'}
+  - {seq: 18, role: markers, filename: assets/KR4e0240_018-WYG.markers.yaml, hash: 'sha256:1f8954d935a17ed953f1219346cbf72a37d2525609955e2ddfbfbd8e76be3b9d'}
+  - {seq: 19, role: markers, filename: assets/KR4e0240_019-WYG.markers.yaml, hash: 'sha256:217ad1b926352ab12ffe4ea38a97d21afe6dce21e0b750d727f6bd4dc594666c'}
+  - {seq: 20, role: markers, filename: assets/KR4e0240_020-WYG.markers.yaml, hash: 'sha256:4bbf622abe6fe00661843111e53e3c2ee8159069d5d44204a3b9e35f8ba0fe21'}
   - {seq: 21, role: markers, filename: assets/KR4e0240_021-WYG.markers.yaml, hash: 'sha256:b5085d8863e194cec162119f2d6717fe1ef9cf53767ca3cb5110291aceaa0f72'}
   - {seq: 22, role: markers, filename: assets/KR4e0240_022-WYG.markers.yaml, hash: 'sha256:aeba75b29abe02f5cf45ed4bd55760428473fbe86e337c819f18ca95e6da9e38'}
   - {seq: 23, role: markers, filename: assets/KR4e0240_023-WYG.markers.yaml, hash: 'sha256:91a31e252e155d61d0d05ad7639a34be498db3e279e81b978dfad5617c637ce7'}
@@ -96,8 +96,8 @@ assets:
   - {seq: 35, role: markers, filename: assets/KR4e0240_035-WYG.markers.yaml, hash: 'sha256:6a9a39c57da668a47111314d2343730f4fdd58f15eb865ae639ed6f7c302c859'}
   - {seq: 36, role: markers, filename: assets/KR4e0240_036-WYG.markers.yaml, hash: 'sha256:810db74f0257ee16984a8552fd781e732e743237e153bddaa1110971daa455ef'}
   - {seq: 37, role: markers, filename: assets/KR4e0240_037-WYG.markers.yaml, hash: 'sha256:7fe64a26ba81913dedd3ce6f685602204342263a941134aa1e672163cabd6b95'}
-  - {seq: 38, role: markers, filename: assets/KR4e0240_038-WYG.markers.yaml, hash: 'sha256:9a5e520cc750c84026705ddbf88adcb011b13cb3ddf2cab375d7526e3df6c97e'}
-  - {seq: 39, role: markers, filename: assets/KR4e0240_039-WYG.markers.yaml, hash: 'sha256:834c63096c2a59623826ed0b0b007ac3825c834691784a428db0f7cdd4cd86a4'}
+  - {seq: 38, role: markers, filename: assets/KR4e0240_038-WYG.markers.yaml, hash: 'sha256:4f223a7c2a2634a7ac364b9dcf6022b46bd311501663c165dfa05c4a3909fdee'}
+  - {seq: 39, role: markers, filename: assets/KR4e0240_039-WYG.markers.yaml, hash: 'sha256:d1eeb38b5d52a3de5050d961ca69fd496865d470cb261802560b8d6ddebf6800'}
 table_of_contents:
 - ref:
     seq: 0
@@ -519,4 +519,4 @@ table_of_contents:
   label: 詩集卷下
   type: section
   level: 1
-hash: sha256:41ea3e1dc34ea9e9b27c0996d3fd06f3e53092a7b2334e983f947a8d51808250
+hash: sha256:96fcc4cf955e74897e99390a717ea360c5473ff3325f6a55a7d7c2595561887c
